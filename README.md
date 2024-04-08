@@ -22,9 +22,12 @@ HealthRecord is built using modern technologies to ensure efficiency, scalabilit
 To get started with HealthRecord, follow these simple steps:
 
 1. **Clone the repository**: `git clone https://github.com/yourusername/healthRecord.git`
-2. **Install dependencies**: `cd healthRecord && npm install`
-3. **Run the development server**: `npm run dev`
-4. **Open your browser**: Visit `http://localhost:3000` to access the HealthRecord application.
+2. **Install dependencies**:
+   ***Home Directory***: `cd healthRecord && npm install`
+   ***Frontend***: `cd frontend-hr && npm install`
+   ***Backend***: `cd backend-hr && npm install`
+3. **Run the development server**: `npm start`
+4. **Open your browser**: Visit `http://localhost:3000` to access the HealthRecord application frontend and `http://localhost:8000` to access backend.
 
 ## Contributing
 
